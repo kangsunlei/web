@@ -1,0 +1,620 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    min-width: 1110px;
+    font-family: "Microsoft YaHei";
+}
+
+nav {
+    height: 51px;
+    min-width: 971px;
+    background-color: #18b8f3;
+    display: none;
+}
+
+nav .content {
+    padding: 0 10px;
+}
+
+nav a {
+    height: 51px;
+    line-height: 51px;
+    color: white;
+    margin-right: 30px;
+}
+
+nav a:hover {
+    text-decoration: none;
+}
+
+a.quick-reg {
+    display: inline-block;
+    width: 120px;
+    height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    line-height: 25px;
+    margin-top: 13px;
+    background-color: white;
+    color: #18b8f3;
+}
+
+a.quick-reg:hover {
+    background-color: #eee;
+}
+
+.part1 {
+    display: block;
+    height: 480px;
+    background: url("../images/cc_home_banner.jpg") no-repeat top center;
+}
+
+.content {
+    padding: 20px;
+}
+
+.head {
+    width: 100%;
+    height: 30px;
+}
+
+.logo {
+    height: 30px;
+    background: url("../images/cc_logo_cn_201603281700.png") no-repeat top left;
+}
+
+.arrow-d {
+    height: 7px;
+    width: 9px;
+    background: url("../images/head_logo_down_201411212020.png") no-repeat 0 0;
+    margin: 12px 0 0 0;
+}
+
+.head-right a {
+    font-family: "Microsoft YaHei";
+    line-height: 30px;
+    color: white;
+    font-size: 12px;
+    margin-left: 20px;
+}
+
+.head-right a:hover {
+    color: white;
+    text-decoration: none;
+    border-bottom: 2px solid white;
+}
+
+a.btn-my {
+    display: inline-block;
+    width: 80px;
+    height: 25px;
+    line-height: 25px;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 50px;
+}
+
+a.btn-my:hover {
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+
+.a-hover {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.register {
+    margin-top: 70px;
+    color: white;
+}
+
+.register p, .register h2 {
+    margin-top: 20px;
+    text-shadow: #666 0 2px;
+}
+
+.register-form {
+    margin-top: 20px;
+    height: 50px;
+}
+
+.register-form input {
+    color: black;
+    font-size: 20px;
+    height: 50px;
+}
+
+.register-form a {
+    display: inline-block;
+    border-radius: 0;
+    font-size: 20px;
+    height: 50px;
+    line-height: 36px;
+}
+
+.part1-2 {
+    min-height: 190px;
+    height: auto;
+}
+
+.content2 {
+    padding: 30px;
+    min-height: 190px;
+    height: auto;
+}
+
+.part1-2 .icon {
+    display: block;
+    margin: 0 1.6%;
+}
+
+.icon a {
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0 auto;
+}
+
+.icon span {
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.icon1 a {
+    background: url("../images/cc_icon_quick_card_entry.png") no-repeat;
+}
+
+.icon2 a {
+    background: url("../images/cc_icon_companyinfo.png") no-repeat;
+}
+
+.icon3 a {
+    background: url("../images/cc_icon_exchange_ecards.png") no-repeat;
+}
+
+.icon4 a {
+    background: url("../images/cc_icon_livechat.png") no-repeat;
+}
+
+.icon5 a {
+    background: url("../images/cc_icon_always_available.png") no-repeat;
+}
+
+.part2 {
+    display: block;
+    height: 480px;
+    background: url("../images/feature_quick_card_entry_201412111236.jpg") no-repeat top center;
+}
+
+.part2-info {
+    margin-top: 100px;
+}
+
+.part2-info span {
+    display: inline-block;
+    height: 42px;
+    background: url("../images/cc_icon_quick_card_entry_gray_201412021500.png") no-repeat top left;
+}
+
+.part2-info h3 {
+    font-family: "黑体";
+    font-weight: bold;
+    margin-top: 13px;
+}
+
+.part2-info p {
+    margin-top: 20px;
+    line-height: 30px;
+    padding: 0;
+}
+
+.part2-pic {
+    position: relative;
+    top: 12px;
+    left: 42%;
+    height: 446px;
+    width: 469px;
+    background: url("../images/cc_image_quick_card_entry_201603281700.png") no-repeat top left;
+}
+
+.part3 {
+    display: block;
+    height: 480px;
+    background: url("../images/feature_business_card_201412101900.jpg") no-repeat top center;
+}
+
+.part3-info {
+    margin-top: 100px;
+}
+
+.part3-info span {
+    display: inline-block;
+    height: 42px;
+    background: url("../images/cc_icon_companyinfo_gray.png") no-repeat top left;
+}
+
+.part3-info h3 {
+    font-family: "黑体";
+    font-weight: bold;
+    margin-top: 13px;
+}
+
+.part3-info p {
+    margin-top: 20px;
+    line-height: 30px;
+    padding: 0;
+}
+
+.part3-pic {
+    margin-top: 13px;
+    height: 447px;
+    width: 257px;
+    background: url("../images/cc_image_businesscard_201412021500_en.png") no-repeat top left;
+}
+
+.scroll-pic-box {
+    width: 217px;
+    height: 384px;
+    position: absolute;
+    overflow: hidden;
+    bottom: 0;
+    right: 24px;
+}
+
+.scroll-pic-box2 {
+    position: relative;
+    width: 100%;
+    height: 600%;
+
+}
+
+.scroll-pic-def {
+    width: 100%;
+    height: 384px;
+}
+
+.scroll-pic1 {
+    background: url("../images/cc_company_info_screen_1.jpg") no-repeat;
+}
+
+.scroll-pic2 {
+    background: url("../images/cc_company_info_screen_2.jpg") no-repeat;
+}
+
+.scroll-pic3 {
+    background: url("../images/cc_company_info_screen_3.jpg") no-repeat;
+}
+
+.scroll-pic4 {
+    background: url("../images/cc_company_info_screen_4.jpg") no-repeat;
+}
+
+.scroll-pic5 {
+    background: url("../images/cc_company_info_screen_1.jpg") no-repeat;
+}
+
+.picscroll {
+    animation: picscroll 10s 1s infinite;
+    -moz-animation: picscroll 10s 1s infinite; /* Firefox */
+    -webkit-animation: picscroll 10s 1s infinite; /* Safari 和 Chrome */
+    -o-animation: picscroll 10s 1s infinite; /* Opera */
+}
+
+@keyframes picscroll {
+    0% {
+        top: -384px;
+    }
+    25% {
+        top: -768px;
+    }
+    50% {
+        top: -1152px;
+    }
+    75% {
+        top: -1536px;
+    }
+    100% {
+        top: 0;
+    }
+}
+
+@-moz-keyframes picscroll /* Firefox */
+{
+    0% {
+        top: -384px;
+    }
+    25% {
+        top: -768px;
+    }
+    50% {
+        top: -1152px;
+    }
+    75% {
+        top: -1536px;
+    }
+    100% {
+        top: 0;
+    }
+}
+
+@-webkit-keyframes picscroll /* Safari 和 Chrome */
+{
+    0% {
+        top: -384px;
+    }
+    25% {
+        top: -768px;
+    }
+    50% {
+        top: -1152px;
+    }
+    75% {
+        top: -1536px;
+    }
+    100% {
+        top: 0;
+    }
+}
+
+@-o-keyframes picscroll /* Opera */
+{
+    0% {
+        top: -384px;
+    }
+    25% {
+        top: -768px;
+    }
+    50% {
+        top: -1152px;
+    }
+    75% {
+        top: -1536px;
+    }
+    100% {
+        top: 0;
+    }
+}
+
+.part4 {
+    display: block;
+    height: 480px;
+    background: url("../images/feature_exchange_ecards_2014012091700.jpg") no-repeat top center;
+}
+
+.part4-info {
+    margin-top: 100px;
+}
+
+.part4-info span {
+    display: inline-block;
+    height: 42px;
+    background: url("../images/cc_icon_exchange_ecards_gray_201412021500.png") no-repeat top left;
+}
+
+.part4-info h3 {
+    font-family: "黑体";
+    font-weight: bold;
+    margin-top: 13px;
+}
+
+.part4-info p {
+    margin-top: 20px;
+    line-height: 30px;
+    padding: 0;
+}
+
+.part4-pic {
+    margin-top: 35px;
+    height: 425px;
+    background: url("../images/cc_image_exchange_ecards_201412021500.png") no-repeat top left;
+}
+
+.part5 {
+    display: block;
+    height: 480px;
+    background: url("../images/feature_live_chat_2014012091700.jpg") no-repeat top center;
+}
+
+.part5-info {
+    margin-top: 100px;
+}
+
+.part5-info span {
+    display: inline-block;
+    height: 44px;
+    background: url("../images/cc_icon_livechat_gray_201412021500.png") no-repeat top left;
+}
+
+.part5-info h3 {
+    font-family: "黑体";
+    font-weight: bold;
+    margin-top: 13px;
+}
+
+.part5-info p {
+    margin-top: 20px;
+    line-height: 30px;
+    padding: 0;
+}
+
+.part5-pic {
+    position: relative;
+    top: -8px;
+    left: 55%;
+    height: 468px;
+    width: 382px;
+    background: url("../images/cc_image_livechat_2014012091700_en.png") no-repeat top left;
+}
+
+.part6 {
+    display: block;
+    height: 480px;
+    background: url("../images/feature_always_available_2014012091700.png") no-repeat top center;
+}
+
+.part6-info {
+    margin-top: 100px;
+}
+
+.part6-info span {
+    display: inline-block;
+    height: 44px;
+    background: url("../images/cc_icon_always_available_gray_201412091249.png") no-repeat top left;
+}
+
+.part6-info h3 {
+    font-family: "黑体";
+    font-weight: bold;
+    margin-top: 13px;
+}
+
+.part6-info p {
+    margin-top: 20px;
+    line-height: 30px;
+    padding: 0;
+}
+
+.part6-pic {
+    position: relative;
+    top: 50px;
+    left: 0;
+    height: 373px;
+    background: url("../images/cc_image_always_available_201412091249.png") no-repeat top left;
+    background-size: contain;
+}
+
+.part7 {
+    height: 480px;
+}
+
+.part7 .content {
+    padding: 50px;
+}
+
+.part7 h2, .part8 h2 {
+    text-align: center;
+    color: #00b7ee;
+}
+
+.part7 .content div.part7-icon {
+    height: 140px;
+    color: #666;
+    text-align: center;
+    margin: 20px 4%;
+    padding-top: 80px;
+}
+
+.part7 .content div:nth-child(2) {
+    background: url("../images/cc_icon_other_feature_1.png") no-repeat top center;
+}
+
+.part7 .content div:nth-child(3) {
+    background: url("../images/cc_icon_other_feature_2.png") no-repeat top center;
+}
+
+.part7 .content div:nth-child(4) {
+    background: url("../images/cc_icon_other_feature_3.png") no-repeat top center;
+}
+
+.part7 .content div:nth-child(5) {
+    background: url("../images/cc_icon_other_feature_4.png") no-repeat top center;
+}
+
+.part7 .content div:nth-child(6) {
+    background: url("../images/cc_icon_other_feature_5.png") no-repeat top center;
+}
+
+.part7 .content div:nth-child(7) {
+    background: url("../images/cc_icon_other_feature_6.png") no-repeat top center;
+}
+
+.part7 .content div:nth-child(8) {
+    background: url("../images/cc_icon_other_feature_7.png") no-repeat top center;
+}
+
+.part7 .content div:nth-child(9) {
+    background: url("../images/cc_icon_other_feature_8.png") no-repeat top center;
+}
+
+.part8 {
+    height: 230px;
+    border-top: 1px solid #aaa;
+}
+
+.part8 .content div {
+    float: left;
+    height: 60px;
+    margin: 50px 1.5% 0 1.6%;
+}
+
+.part8 .content div:nth-child(2) {
+    background: url("../images/cc_home_the_washingtonpost.png") no-repeat top center;
+}
+
+.part8 .content div:nth-child(3) {
+    background: url("../images/cc_home_bbc.png") no-repeat top center;
+}
+
+.part8 .content div:nth-child(4) {
+    background: url("../images/cc_home_cbs.png") no-repeat top center;
+}
+
+.part8 .content div:nth-child(5) {
+    background: url("../images/cc_home_lifehacker.png") no-repeat top center;
+}
+
+.part8 .content div:nth-child(6) {
+    background: url("../images/cc_home_tc.png") no-repeat top center;
+}
+
+.part9 {
+    height: 340px;
+    background-color: #313131;
+    text-align: center;
+}
+
+.part91 {
+    padding: 50px 30px 0;
+}
+
+.part91 a {
+    color: #ddd;
+    font-size: 12px;
+    margin: 0 3%;
+    text-decoration: none;
+}
+
+.part92 {
+    padding: 60px 0;
+}
+
+.part92 a {
+    display: inline-block;
+    text-decoration: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 22px;
+    margin: 0 20px;
+}
+
+.part92 a:nth-child(1) {
+    background: url("../images/sns_wechat.png") no-repeat;
+}
+
+.part92 a:nth-child(2) {
+    background: url("../images/sns_weibo_201409291300.png") no-repeat;
+}
+
+.part92 a:nth-child(3) {
+    background: url("../images/sns_youku.png") no-repeat;
+}
+
+.part93 {
+    font-size: 12px;
+    text-align: center;
+    color: #707070;
+}

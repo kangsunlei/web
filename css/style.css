@@ -1,0 +1,230 @@
+html body{
+    min-width: 990px;
+    padding: 0;
+    margin: 0;
+}
+.banner{
+    padding-top: 1px;
+    width: 100%;
+    height: 660px;
+    background-color: #ced7df;
+}
+.container{
+    width: 80%;
+    height: 610px;
+    margin: 49px auto 0;
+}
+.nav-box{
+    width: 350px;
+    height: 505px;
+    float: left;
+}
+.nav-top{
+    width: 350px;
+    height: 154px;
+}
+.kang{
+    font-family: 幼圆;
+    font-size: 10em;
+    font-weight: 600;
+    display: block;
+    height: 154px;
+    overflow: hidden;
+    line-height: 1;
+}
+.nav{
+    width: 40%;
+    height: 295px;
+    margin-top: 55px;
+}
+.nav li{
+    list-style-type: none;
+    height: 59px;
+    line-height: 59px;
+}
+.nav li a{
+    display: block;
+    width: 260px;
+    height: 45px;
+    line-height: 45px;
+    background-color: #fff;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: "Adobe Caslon Pro";
+}
+.pic-box{
+    width: 55%;
+    height: 100%;
+    float: right;
+    padding-bottom: 0;
+}
+.pic{
+    width: 416px;
+    height: 100%;
+    margin-right: 0;
+}
+.pic img{
+    width: 415px;
+}
+.about{
+    padding-top: 1px;
+    width: 100%;
+    height: 1000px;
+    background-color: cadetblue;
+}
+.about .container{
+    height: 450px;
+}
+.about .about-title h3{
+    font-family: 微软雅黑;
+    margin: 0;
+    color: #323b43;
+    font-size: 44px;
+    text-align: center;
+    font-weight: 400;
+}
+.about h4{
+    text-align: center;
+    font-size: 17px;
+    color: #ced7df;
+    font-weight: 600;
+    margin: 10px 0 16px 0;
+    font-style: italic;
+}
+.about .about-title p{
+    font-family: 微软雅黑;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    width: 71%;
+    margin: 0 auto;
+    line-height: 1.8em;
+}
+.about-title,.card-group{
+    width: 100%;
+    margin: 0 auto;
+}
+.card-group{
+    margin-top: 50px;
+}
+.card{
+    width: 50%;
+    margin: 0 auto;
+    float: left;
+}
+.card h3{
+    font-family: 微软雅黑;
+    font-size: 30px;
+    color: #fff;
+    text-align: left;
+}
+.card p{
+    font-family: 微软雅黑;
+    font-size: 16px;
+    color: #fff;
+    padding: 5px;
+}
+.my-skills{
+    background: #323b43;
+    height: 500px;
+    padding-top: 1px;
+}
+.my-skills .container{
+    height: 450px;
+}
+.my-skills h2{
+    text-align: center;
+    color: #fff;
+    font-family: 微软雅黑;
+}
+.my-skills .skill-box{
+    margin: 30px auto;
+}
+.skill-card{
+    width: 20%;
+    height: 200px;
+    margin: 2.5%;
+    background-color: #0d6f7c;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+    float: left;
+}
+.persent80{
+    background-color: #6aa7ff;
+    opacity: 20;
+    height: 20%;
+}
+.persent70{
+    background-color: #6aa7ff;
+    opacity: 30;
+    height: 30%;
+}
+.persent65{
+    background-color: #6aa7ff;
+    opacity: 35;
+    height: 35%;
+}
+.portfolio{
+    background-color: #ced7df;
+    height: auto;
+    padding-top: 1px;
+}
+.portfolio .container{
+    height: auto;
+}
+.portfolio h2{
+    font-family: 微软雅黑;
+    font-size: 30px;
+    color: #0d6f7c;
+    text-align: center;
+}
+
+.portfolio-card{
+    display: inline-block;
+    width: 30%;
+    border: 1px solid #c0c0c0;
+    height: 250px;
+    margin: 20px 1.2%;
+}
+.portfolio-card a{
+    height: inherit;
+}
+.port-card-content1{
+    height: inherit;
+    background: #444 url("../images/myblog.jpg") no-repeat center;
+}
+.port-card-content2{
+    height: inherit;
+    background: #444 url("../images/map.jpg") no-repeat center;
+}
+.port-card-content3{
+    height: inherit;
+    background: #444 url("../images/clock.jpg") no-repeat center;
+}
+.port-card-content4{
+    height: inherit;
+    background: #444 url("../images/camcard.jpg") no-repeat center;
+}
+.footer{
+    height: 200px;
+    background: #3f3965;
+}
+.back{
+    width: 50px;
+    height: 50px;
+    background: #c0c0c0;
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+.back a{
+    display: inline-block;
+    height: inherit;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+}
