@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
 html,
 body {
-    font-family: "Comic Sans MS", "幼圆", "黑体", sans-serif, "FontAwesome";
+    font-family: "Comic Sans MS", "幼圆", "黑体", sans-serif;
     font-size: 100%;
     background: #FFf;
 }
@@ -33,7 +33,7 @@ h6 {
 /*-- header --*/
 
 #home {
-    background: url(../images/header-bg.jpg) no-repeat center top;
+    background: #6E543B url(../images/header-bg.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -84,7 +84,7 @@ h6 {
     text-decoration: none;
     padding: 10px 0;
     text-transform: uppercase;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Comic Sans MS", "幼圆", "黑体", sans-serif;
 }
 
 .navigation-right ul li.active a {
@@ -592,7 +592,7 @@ span.border.one:after {
 .about-right {
     float: left;
     padding: 0;
-    background: url(../images/about-pic.jpg) no-repeat 0px 0px;
+    background: #92A0AB url(../images/about-pic.jpg) no-repeat 0px 0px;
     min-height: 580px;
     background-size: cover;
     -o-background-size: cover;
@@ -1451,7 +1451,7 @@ span.border.two:after {
 /*-- footer --*/
 
 .footer {
-    background: url(../images/contact.jpeg) no-repeat center top;
+    background: #020202 url(../images/contact.jpeg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
