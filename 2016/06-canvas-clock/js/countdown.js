@@ -84,7 +84,6 @@ function update(){
 
     updateBalls();
 
-    console.log( balls.length)
 }
 
 function updateBalls(){

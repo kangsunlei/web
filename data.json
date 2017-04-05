@@ -29,7 +29,7 @@
         {
           "name": "康小窝",
           "img": "images/myblog.jpg",
-          "url":"2016/04/blog.html",
+          "url":"2016/04-blog/blog.html",
           "desc": "根据慕课网教程做出来的一个很low的页面，算是初期作品。点击图片预览"
         },
         {
@@ -41,14 +41,20 @@
         {
           "name": "cavans时钟",
           "img": "images/clock.jpg",
-          "url":"2016/06/index.html",
+          "url":"2016/06-canvas-clock/index.html",
           "desc": "canvas时钟，小球掉落的很有动感啊！"
         },
         {
           "name": "百度地图",
           "img": "images/map.jpg",
-          "url":"2016/05/map.html",
+          "url":"2016/05-map/map.html",
           "desc": "百度地图，为了熟悉API做的练习"
+        },
+        {
+          "name": "h5组件开发活动页",
+          "img": "images/h5-component.png",
+          "url":"https://kangsunlei.github.io/h5-component/",
+          "desc": "组件化开发web app，熟悉组件化开发思想，同时联系了canvas 和css动画。（请在手机模式下打开）"
         }
       ]
     },

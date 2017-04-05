@@ -72,7 +72,7 @@ $(function () {
                             + '<div class="col-lg-8 col-lg-offset-2 text-center">'
                             + '<div class="modal-body">'
                             + '<h3>' + item.name + '</h3>'
-                            + '<a href="'+item.url+'">'
+                            + '<a href="'+item.url+'" target="_blank">'
                             + '<img src="' + item.img + '" class="img-responsive img-centered" alt="' + item.name + '">'
                             + '</a>'
                             + '<p>' + item.desc + '</p>'
