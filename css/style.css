@@ -921,7 +921,7 @@ ul.year {
 
 ul.year li {
     list-style: none;
-    margin-top: 30px;
+    /*margin-top: 30px;*/
     font-size: 1em;
     color: #fff;
     text-align: center;
@@ -1056,7 +1056,7 @@ ul.year li:nth-child(5) {
 /*-- feedback --*/
 
 .feedback {
-    background: url(../images/feedback-bg.jpg) no-repeat 0px 0px;
+    background: url(../images/feedback-bg.jpg) no-repeat 0 0;
     background-size: cover;
     min-height: 300px;
     padding: 6em 0 0 0;
@@ -1265,7 +1265,8 @@ div#portfolioModal10 {
     top: 25px;
     right: 25px;
     width: 45px;
-    height: 45px background-color: transparent;
+    height: 45px;
+    background-color: transparent;
     cursor: pointer;
     z-index: 1;
 }

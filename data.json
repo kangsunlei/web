@@ -1,0 +1,126 @@
+{
+  "experience": [
+    {
+      "year": "2016.12",
+      "info": {
+        "head": "待业",
+        "body": "快来把我带走！简历请移步至<a href='http:\/\/conwey.coding.me\/about\/' target='_blank' style='color: #00b7ee'>关于我</a>"
+      }
+    },
+    {
+      "year": "2016.10",
+      "info": {
+        "head": "上海极与极网络科技有限公司",
+        "body": "作为前端工程师，完成了签到系统、好好商城、直播、聊天等系统的全部或部分页面。"
+      }
+    },
+    {
+      "year": "2016.6",
+      "info": {
+        "head": "上海齐材电子商务有限公司",
+        "body": "前端实习，收获非常大的一次经历！"
+      }
+    }
+  ],
+  "works": [
+    {
+      "name": "WEB DESIGN",
+      "list": [
+        {
+          "name": "康小窝",
+          "img": "images/myblog.jpg",
+          "url":"2016/04/blog.html",
+          "desc": "根据慕课网教程做出来的一个很low的页面，算是初期作品。点击图片预览"
+        },
+        {
+          "name": "全能名片王首页",
+          "img": "images/camcard.jpg",
+          "url":"2016/camcard-my/index.html",
+          "desc": "为了面试一天赶出来的模仿全能名片王首页的页面，结果由于自己的疏忽错过了，好可惜。"
+        },
+        {
+          "name": "cavans时钟",
+          "img": "images/clock.jpg",
+          "url":"2016/06/index.html",
+          "desc": "canvas时钟，小球掉落的很有动感啊！"
+        },
+        {
+          "name": "百度地图",
+          "img": "images/map.jpg",
+          "url":"2016/05/map.html",
+          "desc": "百度地图，为了熟悉API做的练习"
+        }
+      ]
+    },
+    {
+      "name": "MOBILE UI",
+      "list": [
+        {
+          "name": "Image-Title",
+          "img": "images/pic1.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic2.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic3.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic4.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic14.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      ]
+    },
+    {
+      "name": "ILLUSTRATIONS",
+      "list": [
+        {
+          "name": "Image-Title",
+          "img": "images/pic5.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic6.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic7.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic8.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        },
+        {
+          "name": "Image-Title",
+          "img": "images/pic13.jpg",
+          "url":"javascript:void(0)",
+          "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        }
+      ]
+    }
+  ]
+}
