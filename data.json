@@ -55,6 +55,12 @@
           "img": "images/h5-component.png",
           "url":"https://kangsunlei.github.io/h5-component/",
           "desc": "组件化开发web app，熟悉组件化开发思想，同时联系了canvas 和css动画。（请在手机模式下打开）"
+        },
+        {
+          "name": "web app 阅读器",
+          "img": "images/h5-reader.png",
+          "url":"https://kangsunlei.github.io/h5-reader/",
+          "desc": "根据慕课网教程做出来的web阅读器，实现了字体调整、主题更换等功能。并利用localstorage保存了主题信息。"
         }
       ]
     },
