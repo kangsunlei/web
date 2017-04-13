@@ -61,6 +61,12 @@
           "img": "images/h5-reader.png",
           "url":"https://kangsunlei.github.io/h5-reader/",
           "desc": "根据慕课网教程做出来的web阅读器，实现了字体调整、主题更换等功能。并利用localstorage保存了主题信息。"
+        },
+        {
+          "name": "仿亿方云首页",
+          "img": "images/fangcloud.png",
+          "url":"2017/fangcloud/index.html",
+          "desc": "仿亿方云首页,主要是html和css（暂未完成）"
         }
       ]
     },
