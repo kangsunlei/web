@@ -293,10 +293,6 @@ div.item div.right p.text {
   background-position: -240px -160px;
 }
 
-.item>div {
-  display: inline-block;
-}
-
 .item>div .title {
   font-size: 18px;
   color: #404040
