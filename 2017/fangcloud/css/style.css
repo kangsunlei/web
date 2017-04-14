@@ -267,6 +267,7 @@ div.item div.right p.text {
 
 .easy .content ul {
   list-style-type: none;
+  overflow: hidden;
 }
 
 .easy .content ul li {
